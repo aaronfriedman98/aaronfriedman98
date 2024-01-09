@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Friedman</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 👨‍💻 All of my projects are available at https://aaronfriedman.netlify.app/
+- 👨‍💻 Portfolio site: https://aaronfriedman.netlify.app/
 
 - 📫 How to reach me **aronfriedman98@gmail.com**
 
