@@ -16,19 +16,19 @@ I have a deep passion for bringing creative ideas to life in the digital world. 
 * SQL
 
 ## Freelance Projects:
-<img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/testdbs.gif" width="500">
+<a href="https://detroit-bridal-shower.azurewebsites.net/"><img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/testdbs.gif" width="650"></a>
 
 # Detroit Bridal Shower Project
 
 Digital platform revolutionizing community support and engagements for young newlyweds in the Detroit Orthodox Jewish community. Our dynamic web application facilitates seamless submission of new couples, streamlined verification by the admin, and automated collection emails to a vast audience. Discover past bridal shower hostesses through captivating image uploads on our announcements page.
 
-<img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/croppedAdmin2.gif" width="500">
+<img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/croppedAdmin2.gif" width="650">
 
 # Admin Page (Detroit Bridal Shower)
 
 The admin page, an integral part of the Detroit Bridal Shower website, provides secure access and comprehensive control for administrators. Within the admin page, administrators gain full visibility and management capabilities over the entire database of couples. They have the power to review, verify, and delete couples as needed, ensuring the accuracy and integrity of the platform. One of the key functionalities of the admin page is the ability to manually send out collection emails to the community, notifying them of new engagements and ongoing campaigns. Moreover, the admin page enables administrators to upload images that showcase the hostesses of past bridal showers, adding a personal touch and fostering a sense of community.
 
-<img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/newAyzer2.gif" width="800">
+<img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/newAyzer2.gif" width="650">
 
 # AyzerTech
 
