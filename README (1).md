@@ -37,7 +37,7 @@ Ayzertech is a public adjusting company that operates globally, helping clients 
 ## CONTACT
 * Email: aronfriedman98@gmail.com
 * Portfolio: https://aaronfriedman.netlify.app/
-* LinkedIn: linkedin.com/in/aaron-friedman-fullstackdeveloper
+* LinkedIn: https://www.linkedin.com/in/aaron-friedman-fullstackdeveloper/
 
 
 
