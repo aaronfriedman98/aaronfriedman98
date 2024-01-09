@@ -17,6 +17,7 @@ I have a deep passion for bringing creative ideas to life in the digital world. 
 
 ## Freelance Projects
 <img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/testdbs.gif" width="256">
+<img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/croppedAdmin2.gif" width="456">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aaronfriedman98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaron-friedman-fullstackdeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aaronfriedman.netlify.app/)  
 
