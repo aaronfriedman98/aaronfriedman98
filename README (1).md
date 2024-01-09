@@ -23,7 +23,16 @@ I have a deep passion for bringing creative ideas to life in the digital world. 
 Digital platform revolutionizing community support and engagements for young newlyweds in the Detroit Orthodox Jewish community. Our dynamic web application facilitates seamless submission of new couples, streamlined verification by the admin, and automated collection emails to a vast audience. Discover past bridal shower hostesses through captivating image uploads on our announcements page.
 
 <img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/croppedAdmin2.gif" width="500">
+
+# Admin Page (Detroit Bridal Shower)
+
+The admin page, an integral part of the Detroit Bridal Shower website, provides secure access and comprehensive control for administrators. Within the admin page, administrators gain full visibility and management capabilities over the entire database of couples. They have the power to review, verify, and delete couples as needed, ensuring the accuracy and integrity of the platform. One of the key functionalities of the admin page is the ability to manually send out collection emails to the community, notifying them of new engagements and ongoing campaigns. Moreover, the admin page enables administrators to upload images that showcase the hostesses of past bridal showers, adding a personal touch and fostering a sense of community.
+
 <img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/newAyzer2.gif" width="500">
+
+# AyzerTech
+
+Ayzertech is a public adjusting company that operates globally, helping clients navigate the complexities of insurance claims with ease. The website is designed with the user in mind, providing a visually captivating and user-friendly platform that simplifies the public adjusting process. With a modern and clean interface, the website offers clear and concise information on various claim types, effectively communicating how AyzerTech's services work. Step-by-step explanations and informative resources guide clients through the process, while an aesthetically pleasing design enhances engagement and ensures effortless navigation. The website's user-friendly contact form also enables clients to connect with AyzerTech for personalized assistance. Experience the ease of insurance claim management with AyzerTech's innovative and client-centric approach.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aaronfriedman98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaron-friedman-fullstackdeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aaronfriedman.netlify.app/)  
 
