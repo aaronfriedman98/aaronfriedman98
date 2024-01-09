@@ -15,9 +15,11 @@ I have a deep passion for bringing creative ideas to life in the digital world. 
 * mongoDB
 * SQL
 
-## Freelance Projects
+## Freelance Projects:
 <img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/testdbs.gif" width="500">
+
 # Detroit Bridal Shower Project
+
 Digital platform revolutionizing community support and engagements for young newlyweds in the Detroit Orthodox Jewish community. Our dynamic web application facilitates seamless submission of new couples, streamlined verification by the admin, and automated collection emails to a vast audience. Discover past bridal shower hostesses through captivating image uploads on our announcements page.
 
 <img src="https://github.com/aaronfriedman98/aaronfriedman98/blob/main/croppedAdmin2.gif" width="500">
