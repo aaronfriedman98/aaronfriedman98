@@ -34,8 +34,10 @@ The admin page, an integral part of the Detroit Bridal Shower website, provides 
 
 Ayzertech is a public adjusting company that operates globally, helping clients navigate the complexities of insurance claims with ease. The website is designed with the user in mind, providing a visually captivating and user-friendly platform that simplifies the public adjusting process. With a modern and clean interface, the website offers clear and concise information on various claim types, effectively communicating how AyzerTech's services work. Step-by-step explanations and informative resources guide clients through the process, while an aesthetically pleasing design enhances engagement and ensures effortless navigation. The website's user-friendly contact form also enables clients to connect with AyzerTech for personalized assistance. Experience the ease of insurance claim management with AyzerTech's innovative and client-centric approach.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aaronfriedman98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaron-friedman-fullstackdeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aaronfriedman.netlify.app/)  
-
+## CONTACT
+Email: aronfriedman98@gmail.com
+Portfolio: https://aaronfriedman.netlify.app/
+LinkedIn: linkedin.com/in/aaron-friedman-fullstackdeveloper
 
 
 
