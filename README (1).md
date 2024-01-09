@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aaron Friedman
 #### A passionate Full Stack Developer
-![A passionate Full Stack Developer](https://i.ibb.co/HTFC7DN/design-4e7ed335-e71b-45f5-a518-c2408151476d.png)
+![A passionate Full Stack Developer](https://github.com/aaronfriedman98/aaronfriedman98/blob/main/design-4e7ed335-e71b-45f5-a518-c2408151476d%20(1).png)
 
 I have a deep passion for bringing creative ideas to life in the digital world. I find joy in tackling challenges and thrive in the process of problem-solving. Excited to share my coding journey with you.
 
