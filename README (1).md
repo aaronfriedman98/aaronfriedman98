@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron Friedman</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at https://aaronfriedman.netlify.app/
 
 - 📫 How to reach me **aronfriedman98@gmail.com**
-
-- 📄 Know about my experiences [resume link](resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
